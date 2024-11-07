@@ -1,0 +1,54 @@
+{
+  "uploadVideos": [
+    {
+      "id": "9f37",
+      "caption": "First Demo",
+      "imgUrl": "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_640.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/hylIXfZeB4c"
+    },
+    {
+      "id": "c89a",
+      "caption": "Music",
+      "imgUrl": "https://img.freepik.com/free-photo/beautifully-illustrate-musical-instrument_23-2151103459.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/u5vBKUoCwb8"
+    }
+  ],
+  "categories": [
+    {
+      "id": "e0f5",
+      "CategoryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": "4bdf",
+      "CategoryName": "Music",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "74c6",
+      "caption": "Music",
+      "youTubeLink": "https://www.youtube.com/embed/u5vBKUoCwb8",
+      "timeStamp": "11/5/2024, 10:52:01 AM GMT+5:30"
+    },
+    {
+      "id": "4d30",
+      "caption": "Music",
+      "youTubeLink": "https://www.youtube.com/embed/u5vBKUoCwb8",
+      "timeStamp": "11/6/2024, 9:41:02 AM GMT+5:30"
+    },
+    {
+      "id": "f576",
+      "caption": "Music",
+      "youTubeLink": "https://www.youtube.com/embed/u5vBKUoCwb8",
+      "timeStamp": "11/6/2024, 9:41:08 AM GMT+5:30"
+    },
+    {
+      "id": "9a47",
+      "caption": "First Demo",
+      "youTubeLink": "https://www.youtube.com/embed/hylIXfZeB4c",
+      "timeStamp": "11/6/2024, 9:41:39 AM GMT+5:30"
+    }
+  ]
+}
